@@ -11,6 +11,10 @@
 Конспект + Контрольная https://docs.google.com/document/d/133GoW4rUPZt8N-d7q4k0bo6DQAU7nd3HbAYhkSym7L0/edit
 
 
+Ответы на вопросы 09.10 - https://docs.google.com/document/d/16AUFkmBMHg7WCUsO24Y3n49R4oWfbEdYsxCCsU9vMDk/edit
+
+
+
 
 
 
