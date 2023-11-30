@@ -14,7 +14,7 @@
 Ответы на вопросы 09.10 - https://docs.google.com/document/d/16AUFkmBMHg7WCUsO24Y3n49R4oWfbEdYsxCCsU9vMDk/edit
 
 
-
+Работа в Pycharm - https://docs.google.com/document/d/13FUAk6FLI0xMmgUtyxHpiksmztTxOWsP9btJswkmj0E/edit
 
 
 
