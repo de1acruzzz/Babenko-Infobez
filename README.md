@@ -1,6 +1,6 @@
 # Babenko-Infobez
 Конспект - https://docs.google.com/document/d/12scclWlXB_idtkycaNuJYcJJqpHq-AzllyzjYUT7xgg/edit
-
+Конспект - https://docs.google.com/document/d/13090N3quEPMIOEn4WgSJz_p6_eR8Zu5dVnOntpxUxSo/edit
 
 
 
