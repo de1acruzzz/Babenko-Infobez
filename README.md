@@ -16,6 +16,8 @@
 
 Работа в Pycharm - https://docs.google.com/document/d/13FUAk6FLI0xMmgUtyxHpiksmztTxOWsP9btJswkmj0E/edit
 
+Novella : https://drive.google.com/file/d/1UoXMzVxiH2hFO4LAgtuBWCcuB3CvBEnM/view?usp=sharing
+
 
 
 
