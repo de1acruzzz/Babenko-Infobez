@@ -19,7 +19,7 @@
 Novella : https://drive.google.com/file/d/1UoXMzVxiH2hFO4LAgtuBWCcuB3CvBEnM/view?usp=sharing
 
 
-
+Коспекст СУБд : https://docs.google.com/document/d/112O5eVhAcM2lOlrsN7w9UGbbO9grwXIOxS_9s0GIGsU/edit
 
 
 
