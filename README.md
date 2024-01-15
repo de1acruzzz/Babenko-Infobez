@@ -22,7 +22,7 @@ Novella : https://drive.google.com/file/d/1UoXMzVxiH2hFO4LAgtuBWCcuB3CvBEnM/view
 Коспекст СУБд : https://docs.google.com/document/d/112O5eVhAcM2lOlrsN7w9UGbbO9grwXIOxS_9s0GIGsU/edit
 
 
-
+Конспект БД +таблицы https://docs.google.com/document/d/11BKxwzVTPURHbWqg4RWejdBeQFkwRqhmwAu5MRo3iU0/edit
 
 
 
