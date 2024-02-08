@@ -25,7 +25,7 @@ Novella : https://drive.google.com/file/d/1UoXMzVxiH2hFO4LAgtuBWCcuB3CvBEnM/view
 Конспект БД +таблицы https://docs.google.com/document/d/11BKxwzVTPURHbWqg4RWejdBeQFkwRqhmwAu5MRo3iU0/edit
 
 
-
+SQL таблицы бд : https://drive.google.com/file/d/1onmJ2fANPwJ__btZ-iHnk_8F4pIJ2gYT/view?usp=sharing
 
 
 
