@@ -31,3 +31,6 @@ SQL таблицы бд : https://drive.google.com/file/d/1onmJ2fANPwJ__btZ-iHnk
 
 Установка ред-ос с bluefish 
 https://drive.google.com/file/d/1yNhYxgC7gz5bCaNyKL-l7LzaD4e1NJyG/view?usp=drivesdk
+
+
+twine stepik : https://drive.google.com/file/d/1wA2eRKGB2FiZ8SWQ91Vnn4BhJsa20eJu/view?usp=sharing
