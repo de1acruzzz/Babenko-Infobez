@@ -27,6 +27,11 @@ Novella : https://drive.google.com/file/d/1UoXMzVxiH2hFO4LAgtuBWCcuB3CvBEnM/view
 
 SQL таблицы бд : https://drive.google.com/file/d/1onmJ2fANPwJ__btZ-iHnk_8F4pIJ2gYT/view?usp=sharing
 
+ПРАКТИЧЕСКАЯ 04.03 :
+https://drive.google.com/file/d/1TYcwKwDDrxKONlyUxibwfd-lKZJ_uzCI/view?usp=sharing
+
+https://drive.google.com/file/d/1M_CnmdV24HsqZFprYHGolvuyyDA1c-hS/view?usp=sharing
+
 
 
 Установка ред-ос с bluefish 
