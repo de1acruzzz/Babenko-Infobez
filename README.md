@@ -41,3 +41,6 @@ twine stepik : https://drive.google.com/file/d/1wA2eRKGB2FiZ8SWQ91Vnn4BhJsa20eJu
 
 
 database drawio : https://drive.google.com/file/d/1qwXiUTthjYi9wNVqrNm1R8oDMeJan1uR/view?usp=sharing
+
+
+twine безопастность компьютерных сетей : https://drive.google.com/file/d/1NMW1lOJ2xJV29ZVFSFc-Da0WKobLuZ28/view?usp=sharing
