@@ -33,9 +33,11 @@ https://drive.google.com/file/d/1TYcwKwDDrxKONlyUxibwfd-lKZJ_uzCI/view?usp=shari
 https://drive.google.com/file/d/1M_CnmdV24HsqZFprYHGolvuyyDA1c-hS/view?usp=sharing
 
 
-
 Установка ред-ос с bluefish 
 https://drive.google.com/file/d/1yNhYxgC7gz5bCaNyKL-l7LzaD4e1NJyG/view?usp=drivesdk
 
 
 twine stepik : https://drive.google.com/file/d/1wA2eRKGB2FiZ8SWQ91Vnn4BhJsa20eJu/view?usp=sharing
+
+
+database drawio : https://drive.google.com/file/d/1qwXiUTthjYi9wNVqrNm1R8oDMeJan1uR/view?usp=sharing
