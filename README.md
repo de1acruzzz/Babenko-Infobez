@@ -44,3 +44,5 @@ database drawio : https://drive.google.com/file/d/1qwXiUTthjYi9wNVqrNm1R8oDMeJan
 
 
 twine безопастность компьютерных сетей : https://drive.google.com/file/d/1NMW1lOJ2xJV29ZVFSFc-Da0WKobLuZ28/view?usp=sharing
+
+РЕКЛАМНОЕ АГЕНСТВО : https://drive.google.com/file/d/1QWTmQSDHC-IPeDEyOICqwtWf4XYhfEvu/view?usp=sharing
